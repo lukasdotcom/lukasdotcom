@@ -1,6 +1,8 @@
 # 👋  Hi, I am Lukas Schaefer - @lukasdotcom
 ![Profile Views](https://komarev.com/ghpvc/?username=lukasdotcom&color=brightgreen)
 <br>
+I am currently a developer at Nextcloud and work on open source projects.
+<br>
 I have a website at [lschaefer.xyz](https://www.lschaefer.xyz)
 <br>
 ## Stats
