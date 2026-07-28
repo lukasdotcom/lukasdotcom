@@ -3,6 +3,8 @@
 <br>
 I am currently a developer at Nextcloud and work on open source projects.
 <br>
+I am migrating my git repos to [my own forgejo instance](https://git.lschaefer.xyz/lukasdotcom).
+<br>
 I have a website at [lschaefer.xyz](https://www.lschaefer.xyz)
 <br>
 ## Stats
